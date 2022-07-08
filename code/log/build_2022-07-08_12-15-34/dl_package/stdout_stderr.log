@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating dl_package.egg-info
+writing dl_package.egg-info/PKG-INFO
+writing dependency_links to dl_package.egg-info/dependency_links.txt
+writing entry points to dl_package.egg-info/entry_points.txt
+writing requirements to dl_package.egg-info/requires.txt
+writing top-level names to dl_package.egg-info/top_level.txt
+writing manifest file 'dl_package.egg-info/SOURCES.txt'
+reading manifest file 'dl_package.egg-info/SOURCES.txt'
+writing manifest file 'dl_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/edgar/Desktop/code/install/dl_package/lib/python3.8/site-packages/site.py
+Creating /home/edgar/Desktop/code/install/dl_package/lib/python3.8/site-packages/dl-package.egg-link (link to .)
+Installing dl_node script to /home/edgar/Desktop/code/install/dl_package/lib/dl_package
+
+Installed /home/edgar/Desktop/code/build/dl_package
+running install_data
+creating /home/edgar/Desktop/code/install/dl_package/share/ament_index
+creating /home/edgar/Desktop/code/install/dl_package/share/ament_index/resource_index
+creating /home/edgar/Desktop/code/install/dl_package/share/ament_index/resource_index/packages
+copying resource/dl_package -> /home/edgar/Desktop/code/install/dl_package/share/ament_index/resource_index/packages
+copying package.xml -> /home/edgar/Desktop/code/install/dl_package/share/dl_package

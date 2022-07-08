@@ -2,7 +2,7 @@ import numpy as np
 import time
 import ray
 
-ray.init(address="192.168.43.247:6379")
+
 
 def f1():
     n = 1200
@@ -17,10 +17,15 @@ def f2():
     b = np.random.randint(0, 10, (n, n))
     c = a @ b
 
-time1=time.time()
-[ f1() for _ in range(8)]
-print(time.time()-time1)
+def main():
+    ray.init()
+    time1=time.time()
+    [ f1() for _ in range(8)]
+    print(time.time()-time1)
+    time2=time.time()
+    ray.get([ f2.remote() for _ in range(8)])
+    print(time.time()-time2)
 
-time2=time.time()
-ray.get([ f2.remote() for _ in range(8)])
-print(time.time()-time2)
+
+if __name__ == '__main__':
+    main()

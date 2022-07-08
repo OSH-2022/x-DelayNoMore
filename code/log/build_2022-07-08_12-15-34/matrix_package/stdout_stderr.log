@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing matrix_package.egg-info/PKG-INFO
+writing dependency_links to matrix_package.egg-info/dependency_links.txt
+writing entry points to matrix_package.egg-info/entry_points.txt
+writing requirements to matrix_package.egg-info/requires.txt
+writing top-level names to matrix_package.egg-info/top_level.txt
+reading manifest file 'matrix_package.egg-info/SOURCES.txt'
+writing manifest file 'matrix_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/edgar/Desktop/code/install/matrix_package/lib/python3.8/site-packages/matrix-package.egg-link (link to .)
+Installing matrix_node script to /home/edgar/Desktop/code/install/matrix_package/lib/matrix_package
+
+Installed /home/edgar/Desktop/code/build/matrix_package
+running install_data

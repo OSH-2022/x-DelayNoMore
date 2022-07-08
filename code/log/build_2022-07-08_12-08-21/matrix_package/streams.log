@@ -1,0 +1,25 @@
+[0.490s] Invoking command in '/home/edgar/Desktop/code/build/matrix_package': PYTHONPATH=/home/edgar/Desktop/code/build/matrix_package/prefix_override:/home/edgar/Desktop/code/install/matrix_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/edgar/Desktop/code/build/matrix_package/build --no-deps install_data
+[0.664s] running develop
+[0.766s] running egg_info
+[0.766s] creating matrix_package.egg-info
+[0.766s] writing matrix_package.egg-info/PKG-INFO
+[0.766s] writing dependency_links to matrix_package.egg-info/dependency_links.txt
+[0.766s] writing entry points to matrix_package.egg-info/entry_points.txt
+[0.767s] writing requirements to matrix_package.egg-info/requires.txt
+[0.767s] writing top-level names to matrix_package.egg-info/top_level.txt
+[0.768s] writing manifest file 'matrix_package.egg-info/SOURCES.txt'
+[0.792s] reading manifest file 'matrix_package.egg-info/SOURCES.txt'
+[0.792s] writing manifest file 'matrix_package.egg-info/SOURCES.txt'
+[0.817s] running build_ext
+[0.817s] Creating /home/edgar/Desktop/code/install/matrix_package/lib/python3.8/site-packages/site.py
+[0.819s] Creating /home/edgar/Desktop/code/install/matrix_package/lib/python3.8/site-packages/matrix-package.egg-link (link to .)
+[0.819s] Installing matrix_node script to /home/edgar/Desktop/code/install/matrix_package/lib/matrix_package
+[0.819s] 
+[0.820s] Installed /home/edgar/Desktop/code/build/matrix_package
+[0.820s] running install_data
+[0.820s] creating /home/edgar/Desktop/code/install/matrix_package/share/ament_index
+[0.820s] creating /home/edgar/Desktop/code/install/matrix_package/share/ament_index/resource_index
+[0.820s] creating /home/edgar/Desktop/code/install/matrix_package/share/ament_index/resource_index/packages
+[0.820s] copying resource/matrix_package -> /home/edgar/Desktop/code/install/matrix_package/share/ament_index/resource_index/packages
+[0.820s] copying package.xml -> /home/edgar/Desktop/code/install/matrix_package/share/matrix_package
+[0.839s] Invoked command in '/home/edgar/Desktop/code/build/matrix_package' returned '0': PYTHONPATH=/home/edgar/Desktop/code/build/matrix_package/prefix_override:/home/edgar/Desktop/code/install/matrix_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/edgar/Desktop/code/build/matrix_package/build --no-deps install_data

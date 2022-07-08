@@ -1,0 +1,25 @@
+[0.654s] Invoking command in '/home/edgar/Desktop/code/build/dl_package': PYTHONPATH=/home/edgar/Desktop/code/build/dl_package/prefix_override:/home/edgar/Desktop/code/install/dl_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/edgar/Desktop/code/build/dl_package/build --no-deps install_data
+[0.855s] running develop
+[0.963s] running egg_info
+[0.963s] creating dl_package.egg-info
+[0.963s] writing dl_package.egg-info/PKG-INFO
+[0.963s] writing dependency_links to dl_package.egg-info/dependency_links.txt
+[0.964s] writing entry points to dl_package.egg-info/entry_points.txt
+[0.964s] writing requirements to dl_package.egg-info/requires.txt
+[0.964s] writing top-level names to dl_package.egg-info/top_level.txt
+[0.964s] writing manifest file 'dl_package.egg-info/SOURCES.txt'
+[0.988s] reading manifest file 'dl_package.egg-info/SOURCES.txt'
+[0.988s] writing manifest file 'dl_package.egg-info/SOURCES.txt'
+[1.013s] running build_ext
+[1.013s] Creating /home/edgar/Desktop/code/install/dl_package/lib/python3.8/site-packages/site.py
+[1.015s] Creating /home/edgar/Desktop/code/install/dl_package/lib/python3.8/site-packages/dl-package.egg-link (link to .)
+[1.015s] Installing dl_node script to /home/edgar/Desktop/code/install/dl_package/lib/dl_package
+[1.016s] 
+[1.016s] Installed /home/edgar/Desktop/code/build/dl_package
+[1.016s] running install_data
+[1.016s] creating /home/edgar/Desktop/code/install/dl_package/share/ament_index
+[1.016s] creating /home/edgar/Desktop/code/install/dl_package/share/ament_index/resource_index
+[1.016s] creating /home/edgar/Desktop/code/install/dl_package/share/ament_index/resource_index/packages
+[1.016s] copying resource/dl_package -> /home/edgar/Desktop/code/install/dl_package/share/ament_index/resource_index/packages
+[1.016s] copying package.xml -> /home/edgar/Desktop/code/install/dl_package/share/dl_package
+[1.049s] Invoked command in '/home/edgar/Desktop/code/build/dl_package' returned '0': PYTHONPATH=/home/edgar/Desktop/code/build/dl_package/prefix_override:/home/edgar/Desktop/code/install/dl_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/edgar/Desktop/code/build/dl_package/build --no-deps install_data

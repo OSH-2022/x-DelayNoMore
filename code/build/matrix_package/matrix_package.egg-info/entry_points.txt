@@ -1,0 +1,3 @@
+[console_scripts]
+matrix_node = matrix_package.matrix_node:main
+

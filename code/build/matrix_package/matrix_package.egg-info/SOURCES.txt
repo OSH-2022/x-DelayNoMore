@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+matrix_package/__init__.py
+matrix_package/matrix_node.py
+matrix_package.egg-info/PKG-INFO
+matrix_package.egg-info/SOURCES.txt
+matrix_package.egg-info/dependency_links.txt
+matrix_package.egg-info/entry_points.txt
+matrix_package.egg-info/requires.txt
+matrix_package.egg-info/top_level.txt
+matrix_package.egg-info/zip-safe
+resource/matrix_package
